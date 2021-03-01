@@ -35,5 +35,5 @@
 Pull Request를 하시고 정상적으로 conflict를 수정하신 분들의 깃헙 아이디와 블로그 주소를 아래 적어드립니다.
 
 |깃헙 아이디|블로그 주소|
-|---|---|---|
+|---|---|
 |0417taehyun|https://velog.io/@dev_taehyun||
