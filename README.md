@@ -1,6 +1,5 @@
 ## Git & GitHub Practice
-> 깃과 깃헙에 대해 간단하게 공부해볼 수 있는 레포지토리입니다 :laughing:
-> 문의는 0Issue를 통해 주세요 :smile: 
+> 깃과 깃헙에 대해 간단하게 공부해볼 수 있는 레포지토리입니다. 문의는 Issue를 통해 주세요 :smile: 
 
 ### 관련 글
 #### :computer: 깃 기초
