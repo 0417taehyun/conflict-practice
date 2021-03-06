@@ -6,11 +6,11 @@ from config import token
 
 def accept_merge(url, headers):
     url      += "/merge"
-    content   = "Merge 완료!"
+    content   = "Merge 완료!\n Merge Accepted!"
     response  = requests.put(url = url, headers = headers)
 
     if response.status_code == 409:
-        content = "Conflict를 해결해주세요!"
+        content = "Conflict를 해결해주세요!\nSolve your conflict problem!"
 
     return content
 
@@ -51,13 +51,13 @@ def lambda_handler(event, context):
 
 
     if not check_file:
-        content  = "pr_file.py 파일만 수정하실 수 있습니다! 다른 파일은 건들이지 말아주세요."
+        content  = "test_by_ 파일만 수정하실 수 있습니다! 다른 파일은 건들이지 말아주세요.\nYou can only edit test_by_ file! Do not edit others."
         response = create_comment(issue_url, headers, content)
         print(response)
         return False
 
     if commit_count > 1:
-        content  = "git rebase를 통해 commit을 정리해주세요 :)"
+        content  = "git rebase를 통해 commit을 정리해주세요 :)\n Squash your commits by using git rebase command :)"
         response = create_comment(issue_url, headers, content)
         print(response)
         return False
