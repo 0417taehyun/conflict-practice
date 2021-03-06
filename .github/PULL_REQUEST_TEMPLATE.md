@@ -1,4 +1,4 @@
-## Pull Request 양식
+### Pull Request
 > 성공적으로 **rebase**를 사용하고 **conflict**를 해결하신 분들의 정보를 **README**에 적어드립니다.  
 > I'll type your information on **README** if you success to use **rebase** and solve **coflict**.  
 > :warning: **주소가 긴 경우 [Bitly](https://bitly.com/) 등의 URL 단축을 활용해서 올려주세요** :warning:  
