@@ -1,8 +1,4 @@
-// 아래 변수 myId를 본인의 이름으로 업데이트 합니다.
+// 변수 myId를 본인의 깃헙 아이디로 업데이트 합니다.
+// Update myId variable to your GitHub ID
 
-var myId   = "본인의 깃헙 아이디를 입력해주세요."
-var myBlog = "본인의 블로그 주소를 입력해주세요."
-
-const content  = "안녕하세요! 제 깃헙 아이디는 " + myId + " 이고 블로그 주소는 " + myBlog + " 입니다 :)"
-
-console.log(content)
+var myId = "본인의 깃헙 아이디로 수정해주세요. Update this variable to your GitHub ID."
