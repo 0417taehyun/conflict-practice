@@ -1,6 +1,6 @@
-<div align=center>
+<div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0417taehyun%2Fgit-practice&count_bg=%237996C2&title_bg=%237C7777&icon=github.svg&icon_color=%23FFFDFD&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp; ![GitHub pull requests](https://img.shields.io/github/issues-pr/0417taehyun/git-practice) &nbsp; ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/0417taehyun/git-practice)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0417taehyun%2Fgit-practice&count_bg=%233B4A60&title_bg=%232F2F2F&icon=github.svg&icon_color=%23FFFDFD&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp; ![GitHub pull requests](https://img.shields.io/github/issues-pr/0417taehyun/git-practice) &nbsp; ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/0417taehyun/git-practice)
 </div>
 
 ## Git & GitHub Practice
@@ -40,6 +40,7 @@
 2. [The way of check Pull Request and Merge automatically](https://github.com/0417taehyun/pr-test)
 
 ---
+<div align="center">
 
 ### :clap: 참여하신 분들 Participants :clap:
 
@@ -47,3 +48,4 @@
 |:---:|:---:|:---:|
 |0417taehyun|파이썬, 백엔드|https://velog.io/@dev_taehyun|
 |0417taehyun|Python, Back-end|https://medium.com/@0417taehyun|
+</div>
