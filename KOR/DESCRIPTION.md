@@ -3,7 +3,12 @@
 `git clone` 명령어를 통해서 해당 레포지토리를 복사하여 본인의 로컬에 소스 코드를 저장합니다.
 
 #### :ballot_box_with_check: Git Branch
-`git branch` 명령어를 통해서 `git branch 0417taehyun/1` 과 같이 `YourGitHubId/Number` 형식의 브랜치를 2개 만듭니다. 결과적으로 `git branch` 를 통해 생성한 브랜치를 확인하면 `0417taehyun/1` 과 `0417taehyun/2` 가 있어야 합니다.
+`git branch` 명령어를 통해서 `git branch 0417taehyun/1` 과 같이 `YourGitHubId/Number` 형식의 브랜치를 2개 만듭니다. 결과적으로 `git branch` 를 통해 생성한 브랜치를 확인하면 아래 이미지와 같이 `0417taehyun/1` 과 `0417taehyun/2` 가, `YourGitHubId/1`과 `YourGitHubId/2` 있어야 합니다.
+
+<div align="center">
+
+![](../Img/git-branch.png)
+</div>
 
 #### :ballot_box_with_check: Git Checkout
 `git checkout` 명령어를 통해서 `git checkout 0417taehyun/1` 과 같이 본인이 생성한 첫 번째 브랜치로 이동합니다.
